@@ -7,10 +7,7 @@
 	margin: 0;
 	padding: 0;
 }
-
-
 body {
-
 	font-family:  Raleway, Arial, sans-serif;
 	background-image: url("../images/background.jpg");
 	padding-right: 100px;
@@ -21,26 +18,15 @@ body {
 	color: #656565;
 }
 
-
-.container {
-  height: 320px;
-  width: 100;
-}
-
 div {
 	background-color: white;
-	
-	width: 700px;
+	width: 680px;
 	margin-left: 268px;
 	margin-top: 43px;
-
 	padding: 20px;
-
-	}
-
-	img src="images/ecard-nycstartups.jpg" alt="NYC Startups"> {
-	
 }
+
+	
 	p {
 	text-align: left;
 }
